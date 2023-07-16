@@ -1,0 +1,36 @@
+@charset "utf-8";
+
+/*
+ 
+  Course: CIS 181 WW1
+  Name: John Suprien
+  Date: July 15, 2023
+
+*/
+
+
+/* h2 paragraph styling */
+
+body > h2 {
+	background-color: blue;
+	padding-left: 10px;
+}
+
+body {
+	background: gray;
+	padding-left: 15px;
+}
+
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 40%;
+}
+
+ul {
+	list-style-type: square;
+	padding-left: 15px;
+}
+
